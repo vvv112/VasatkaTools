@@ -1,5 +1,5 @@
 alert("test")
-
+alert(document.getElementById("numbox"))
 var num = 0
 function plus() {
 num++
