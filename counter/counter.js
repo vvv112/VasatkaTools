@@ -3,7 +3,7 @@ var num = 0
 function plus() {
 num++
 alert(num)
-document.getElementById("numbox") = num
+num = document.getElementById("numbox")
 };
 
 function minus() {
